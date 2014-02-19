@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">FlagQuizGame</string>
+   <string name="choices">Выбрать больше вариантов ответа</string>
+   <string name="correct">Верно</string>
+   <string name="guess_country">Угадай страну</string>
+   <string name="guesses">Предположения</string>
+   <string name="incorrect_answer">Неверно</string>
+   <string name="more_regions_title">Добавить больше регионов</string>
+   <string name="more_regions_message">Добавль больше регионов, их слишком мало</string>
+   <string name="of">из</string>
+   <string name="ok">Ок</string>
+   <string name="question">Вопрос</string>
+   <string name="quiz_title">Угадай 10 раз подряд</string>
+   <string name="regions">Выбери регион</string>
+   <string name="reset_quiz">Начать сначала</string>
+   <string-array name="regionsList">
+      <item>Africa</item>
+      <item>Asia</item>
+      <item>Europe</item>
+      <item>North_America</item>
+      <item>Oceania</item>
+      <item>South_America</item>
+   </string-array>
+   <string-array name="guessesList">
+      <item>3</item>
+      <item>6</item>
+      <item>9</item>
+   </string-array>
+</resources>
